@@ -1,3 +1,114 @@
-baseURL: http://zeframlou.com/
+baseURL: https://zeframlou.com/
 languageCode: en-us
-title: Zefram's Blog
+title: Zefram Lou
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Zefram Lou
+  description: "The personal blog of Zefram Lou"
+  keywords: [Blog, DeFi, Ethereum, Personal]
+  # author: Zefram Lou
+  images: [images/defi-space.png]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    disableFingerprinting: true
+    favicon: favicon/favicon.ico
+    favicon16x16: favicon/favicon-16x16.png
+    favicon32x32: favicon/favicon-32x32.png
+    apple_touch_icon: favicon/apple-touch-icon.png
+    safari_pinned_tab: favicon/safari-pinned-tab.svg
+
+  label:
+    text: "Home"
+    icon: /favicon/apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Zefram Lou
+    subtitle: I am passionate about decentralizing our financial and governance systems, using the power of Ethereum.
+    imageUrl: images/self-portrait.jpg
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: self portrait
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Projects
+        url: projects
+
+  # home-info mode
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/boredGenius"
+    - name: github
+      url: "https://github.com/ZeframLou"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/ZeframLou/blog/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 10
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
