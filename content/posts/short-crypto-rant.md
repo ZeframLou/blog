@@ -65,3 +65,5 @@ Most projects have 0 users, and have 0 market & user research. This is why many 
 Another closely related observation: many projects are not going on the MVP->launch->improve development path; instead, they're hopelessly idealistic, in that they're straight up building their ultimate vision, without regard for the current market or reality in general. Aragon, Democracy.earth, Colony are some of the prime examples. Aragon is trying to build the infrastructure for the future of crypto and DAOs today, without regard for what dApp developers actually need today. Democracy.earth is literally trying to overthrow fucking governments and abolish the idea of nation states. Like what the fuck, give us a product first.  
   
 I'd love to be proved wrong here, but having the tech before UX has always been a recipe for disaster.
+
+{{<remarkbox>}}

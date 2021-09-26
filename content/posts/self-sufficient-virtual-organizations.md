@@ -60,3 +60,5 @@ And here are the things I usually do with them:
 *   Example: Bonding curves and TCRs are both models that make use of token holders' drive to increase the token's price. Thus, they may be categorized as Investor Driven Models. (Not a good example, I know)
 
 These cryptoeconomic primitives are, as the name suggests, primitive, and certainly are not capable of enabling self-sufficient virtual organizations in isolation, but I firmly believe that in conjunction, these primitives and ones that haven't been invented yet will make such organizations into reality, likely within the next 5 years.
+
+{{<remarkbox>}}

@@ -65,3 +65,5 @@ Crypto projects, especially DeFi projects, will likely move away from being dry,
 Many projects are already on a similar trajectory, though not quite doing what I’ve described above. They know the importance of building up a brand, but they’re still employing Web 2.0 tactics, doing little more than posting memes, commissioning art, building Discord groups et cetera. To them, the branding efforts are merely advertisements for their core product, rather than a product to focus on in itself. Once these projects begin to systematically solidify their branding and subjective value into a coherent NFT offering, and put the NFT offering on the same level of importance as their current core product, then they will likely become the crypto version of Apple, offering not just technology but also fashion.
 
 I expect the first successful crypto brand to emerge within the next 2 years. Can’t wait to see it. Can’t wait to build it.
+
+{{<remarkbox>}}

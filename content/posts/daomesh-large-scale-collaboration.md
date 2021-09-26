@@ -210,3 +210,5 @@ A decentralized economy can solve the problems on both the demand side and the s
 * * *
 
 I sincerely hope that the world will benefit from this document, even if just a little.
+
+{{<remarkbox>}}

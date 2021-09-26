@@ -50,3 +50,5 @@ John Does of the world will be able to:
 *   **Access the global financial system**: raise money by selling shares of your DAO to anyone round the world, get decentralized loans, credit, and insurances.
 
 I can't even begin to imagine the magnitude of the impact this will have. The most insane thing that could happen would probably be complete economic globalization and the breakdown of national barriers.
+
+{{<remarkbox>}}
