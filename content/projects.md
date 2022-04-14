@@ -4,6 +4,26 @@ ShowToc: true
 TocOpen: true
 ---
 
+## Core projects
+
+### Timeless
+
+Timeless is a perpetual yield token protocol. It introduces two brand new financial instruments that enable people to leverage, speculate on, or hedge yield.
+
+Still under development!
+
+[Visit](https://blog.timelessfi.com)
+
+### sudoAMM
+
+sudoAMM is an Automated Market Maker (AMM) for NFTs. It is capital efficient, hyper gas-optimized, and mostly permissionless.
+
+I expect that sudoAMM will be to NFTs what Uniswap was (and is) to tokens: a new paradigm that will dominate the trading market.
+
+Still under development!
+
+[Visit](https://blog.0xmons.xyz/83017366310)
+
 ## Active projects
 
 ### 88mph
@@ -22,7 +42,7 @@ It is completely decentralized, since it uses [IPFS](https://ipfs.io) to store &
 
 The coolest part is its usage of [the Graph](https://thegraph.com), which allows users to view all of the airdrops they are eligible for.
 
-[Visit](https://whalerdao.github.io/astrodrop)
+[Visit](https://astrodrop.xyz)
 
 ## Inactive but still usable projects
 

@@ -1,6 +1,6 @@
 baseURL: https://zefram.xyz/
 languageCode: en-us
-title: Zefram Lou
+title: Zefram's Blog
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -14,10 +14,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Zefram Lou
-  description: "The personal blog of Zefram Lou"
+  title: Zefram's Blog
+  description: "Zefram's Personal Blog"
   keywords: [Blog, DeFi, Ethereum, Personal]
-  # author: Zefram Lou
   images: [images/defi-space.png]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -52,8 +51,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Zefram Lou
-    subtitle: I am passionate about decentralizing our financial and governance systems, using the power of Ethereum.
+    title: Zefram's Blog
+    subtitle: Decentralizing our financial and governance systems, using the power of Ethereum.
     imageUrl: images/self-portrait.jpg
     imageWidth: 120
     imageHeight: 120
@@ -79,11 +78,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/ZeframLou/blog/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
