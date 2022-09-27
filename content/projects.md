@@ -10,21 +10,43 @@ TocOpen: true
 
 Timeless is a perpetual yield token protocol. It introduces two brand new financial instruments that enable people to leverage, speculate on, or hedge yield.
 
-Still under development!
+Launched on Ethereum Mainnet and several other networks.
 
-[Visit](https://blog.timelessfi.com)
+[Visit](https://timelessfi.com)
 
-### sudoAMM
+### Sudoswap
 
-sudoAMM is an Automated Market Maker (AMM) for NFTs. It is capital efficient, hyper gas-optimized, and mostly permissionless.
+Sudoswap is an Automated Market Maker (AMM) for NFTs. It is capital efficient, hyper gas-optimized, and mostly permissionless.
 
-I expect that sudoAMM will be to NFTs what Uniswap was (and is) to tokens: a new paradigm that will dominate the trading market.
+I expect that Sudoswap will be to NFTs what Uniswap was (and is) to tokens: a new paradigm that will dominate the trading market.
 
-Still under development!
+Launched on Ethereum Mainnet.
 
-[Visit](https://blog.0xmons.xyz/83017366310)
+[Visit](https://sudoswap.xyz)
 
 ## Active projects
+
+### Bunni
+
+Bunni is an ERC-20 liquidity provider (LP) token protocol for Uniswap v3. It enables representing Uniswap v3 LP positions as fungible tokens rather than
+NFTs, which unlocks new possibilities for liquidity incentivization and composability. It also makes providing liquidity on Uniswap v3 significantly cheaper, since LP tokens
+for the same price ranges are reused.
+
+[Visit](https://github.com/ZeframLou/bunni)
+
+### Bagholder
+
+Bagholder is an NFT loyalty protocol. It enables NFT projects to reward their holders with tokens without requiring them to stake the NFTs in a contract.
+
+Bagholder introduces a new concept called **Optimistic Staking**. Optimistic staking uses mechanisms similar to optimistic rollups, where it optimistically assumes
+that stakers are honest and won't transfer away their NFTs while receiving rewards, and slashes dishonest stakers. This is why stakers must deposit bonds when they stake; 
+a bond only needs to cover the gas cost of slashing (which is low) plus a bit of reward for the slasher.
+
+Bagholder enables NFT holders to be rewarded by the project, while retaining access to NFT-gated benefits such as private groupchats.
+
+Launched on Ethereum Mainnet.
+
+[Visit](https://bagholder.us)
 
 ### 88mph
 
