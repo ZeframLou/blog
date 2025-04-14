@@ -2,6 +2,7 @@ baseURL: https://zefram.xyz/
 languageCode: en-us
 title: Zefram's Blog
 theme: "PaperMod"
+canonifyURLs: true
 
 enableRobotsTXT: true
 buildDrafts: false
